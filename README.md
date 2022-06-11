@@ -3,7 +3,7 @@
 
 
 
-##Skill
+## Skill
 
 [![My Skills](https://skillicons.dev/icons?i=js,aws,discord,docker,git,github,kubernetes,linkedin,linux,mongodb,mysql,nginx,react,redis,vscode)](https://skillicons.dev)
 
