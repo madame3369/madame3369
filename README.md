@@ -5,7 +5,7 @@
 
 ##Skill
 
-[![My Skills](https://skillicons.dev/icons?i=js,aws,discord,docker,git,github,kubernetes,linkedin,linux,mongodb,mysql,nginx,,react,redis,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,aws,discord,docker,git,github,kubernetes,linkedin,linux,mongodb,mysql,nginx,react,redis,vscode)](https://skillicons.dev)
 
 <!--
 **madame3369/madame3369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
